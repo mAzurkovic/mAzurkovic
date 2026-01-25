@@ -1,6 +1,6 @@
 ## Hey :wave:
 
-* :work: Software Engineer at Amazon
+* 🏢: Software Engineer at Amazon
 * :school: UBC Electrical and Computer Engineering
 * :robot: Enjoy robotics and control systems
 
