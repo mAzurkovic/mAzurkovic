@@ -4,4 +4,4 @@
 * :school: UBC Electrical and Computer Engineering
 * :robot: Enjoy robotics and control systems
 
-> Here is my [personal site](https://mattiasz.webflow.io/)
+> Here is my [site](https://mattiasz.com/)
