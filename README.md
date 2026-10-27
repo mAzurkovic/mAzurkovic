@@ -1,7 +1,9 @@
 ## Hey :wave:
 
-* 🏢 Software Engineer at Amazon
-* :school: UBC Electrical and Computer Engineering
-* :robot: Enjoy robotics and control systems
+Hi, my name is Mattias. I'm a passionate software engineer who loves building things! My areas of my expertise include:
+
+* Designing distributed systems
+* System performance
+* Control systems
 
 > Here is my [site](https://mattiasz.com/)
