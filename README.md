@@ -1,6 +1,6 @@
 ## Hey :wave:
 
-[![Website](https://img.shields.io/badge/Website-mattiasz.com-green)](https://mattiasz.com/))
+[![Website](https://img.shields.io/badge/Website-mattiasz.com-green)](https://mattiasz.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattias%20Zurkovic-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mattias-zurkovic/)
 
 
